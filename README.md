@@ -6,9 +6,15 @@
 
 ## 🙋‍♂️ About Me
 
-- I’m currently learning **Python**
+- 🔭 I’m currently Studying
 
-- 📫 How to reach me **nicola.abu.shaibeh@gmail.com**
+- 🌱 I’m currently learning **Python**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 👨‍💻 All of my projects are available at **[My Portfolio](http://www.ahmaddroobi.eb2a.com)**
+
+- 📫 How to reach me **ahmaddroobi@clemson.edu**
 
 
 ## 🚀 Languages and Tools:
@@ -25,6 +31,21 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nicola streak" src="http://github-readme-streak-stats.herokuapp.com?user=NicolaLino&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
     </a>
 </p>
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/NicolaLino/SubhamRaoniar28/github-readme-stats"><img alt="Nicola Github Stats" src="https://github-readme-stats.vercel.app/api?username=NicolaLino&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/NicolaLino/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolaLino&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NicolaLino&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
 
 
 ## 🧡 My passions
