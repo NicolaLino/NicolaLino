@@ -28,3 +28,11 @@
     </a>
 </p>
 
+
+#### 🧡 &nbsp;&nbsp;My passions
+
+* Technology and software
+* Science 
+* Machine learning & AI
+* Books 
+* Data Science 
