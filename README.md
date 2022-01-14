@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/wr5oHiN.gif" height="175px"/></a>
+<a href="#"><img width="500" height="320" src="https://i.imgur.com/wr5oHiN.gif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nicola</h1>
 <h3 align="center">I'm Computer Engineer Student From Palestine.</h3>
@@ -24,6 +24,7 @@
 
 <p align="center">
     <a href="https://github.com/NicolaLino/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nicola streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NicolaLino&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nicola streak" src="http://github-readme-streak-stats.herokuapp.com?user=NicolaLino&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
     </a>
 </p>
+
