@@ -6,15 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently Studying
+- I’m currently learning **Python**
 
-- 🌱 I’m currently learning **Python**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](http://www.ahmaddroobi.eb2a.com)**
-
-- 📫 How to reach me **ahmaddroobi@clemson.edu**
+- 📫 How to reach me **nicola.abu.shaibeh@gmail.com**
 
 
 ## 🚀 Languages and Tools:
