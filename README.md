@@ -5,10 +5,11 @@
 
 </a>
 <a href="https://twitter.com/nicolalinoo">
-  <img align="center" alt="Nicola Abu Shaibeh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Nicola Abu Shaibeh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/nicolaabushaibeh/">
-  <img align="center" alt="Nicola's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Nicola's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=NicolaLino.NicolaLino)
+ 
