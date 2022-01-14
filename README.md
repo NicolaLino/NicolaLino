@@ -2,7 +2,7 @@
 
 <!--
 **NicolaLino/NicolaLino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/wr5oHiN.gifv" height="175px"/></a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
