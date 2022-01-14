@@ -3,15 +3,19 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nicola</h1>
 <h3 align="center">I'm Computer Engineering Student From Palestine.</h3>
 
-</a>
-<a href="https://twitter.com/nicolalinoo">
-  <img align="left" alt="Nicola Abu Shaibeh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/nicolaabushaibeh/">
-  <img align="left" alt="Nicola's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=NicolaLino.NicolaLino)
+## 🙋‍♂️ About Me
+
+- 🔭 I’m currently Studying
+
+- 🌱 I’m currently learning **Python**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 👨‍💻 All of my projects are available at **[My Portfolio](http://www.ahmaddroobi.eb2a.com)**
+
+- 📫 How to reach me **ahmaddroobi@clemson.edu**
+
 
 ## 🚀 Languages and Tools:
 
@@ -29,10 +33,19 @@
 </p>
 
 
-#### 🧡 &nbsp;&nbsp;My passions
+## 🧡 My passions
 
 * Technology and software
 * Science 
 * Machine learning & AI
 * Books 
 * Data Science 
+
+## Connect with me:
+<p align="center">
+
+<a href = "https://www.linkedin.com/in/nicolaabushaibeh/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/nicolalinoo"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=NicolaLino">
+</p>
