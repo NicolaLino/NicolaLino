@@ -24,7 +24,6 @@
 
 
 <p align="center">
-    <a href="https://github.com/NicolaLino/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nicola streak" src="http://github-readme-streak-stats.herokuapp.com?user=NicolaLino&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
     </a>
 </p>
