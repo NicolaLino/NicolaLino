@@ -63,7 +63,7 @@
 <p align="center">
 
 <a href = "https://www.linkedin.com/in/nicolaabushaibeh/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/nicolalinoo"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<!-- <a href = "https://twitter.com/nicolalinoo"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=NicolaLino">
 </p>
