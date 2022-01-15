@@ -1,4 +1,7 @@
-![header](https://i.imgur.com/wr5oHiN.gif)
+<p align = "center">
+
+ <img src = "https://i.imgur.com/wr5oHiN.gif" width = 400 />
+</p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nicola</h1>
 <h3 align="center">I'm Computer Engineering Student.</h3>
@@ -29,20 +32,21 @@
 
 ## 📊 My Github Stats
 
-  <br/>
-    <a href="https://github.com/NicolaLino/SubhamRaoniar28/github-readme-stats"><img alt="Nicola Github Stats" src="https://github-readme-stats.vercel.app/api?username=NicolaLino&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    
-  <a href="https://github.com/NicolaLino/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolaLino&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+<p align = "center">
+ 
+</p>
 
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=NicolaLino&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt = "Nicola Github Stats" width = 400 >
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NicolaLino&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt = "Nicola Abu Shaibeh's Top Languages" width = 400 >
 
-<br/>
-<br/>
+</p>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NicolaLino&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<p align = "center">
 
-<br/>
-<br/>
+ <img src = "https://activity-graph.herokuapp.com/graph?username=NicolaLino&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt = "Nicola Abu Shaibeh's Activity Graph" />
+</p>
+
 
 
 ## 🧡 My passions
