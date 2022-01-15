@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nicola</h1>
-<h3 align="center">I'm Computer Engineering Student.</h3>
+<h3 align="center">Computer Engineering Student.</h3>
 
 
 ## 📌 About Me
