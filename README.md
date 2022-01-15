@@ -7,7 +7,7 @@
 <h3 align="center">I'm Computer Engineering Student.</h3>
 
 
-## 🙋‍♂️ About Me
+## 📌 About Me
 
 -    I’m currently learning **Python**
 
