@@ -22,10 +22,9 @@
    
 </p>
 
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NicolaLino&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt = "Nicola Abu Shaibeh's Top Languages" width = 400 >
 
-<p align="center">
-        <img alt="Nicola streak" src="https://github-readme-streak-stats.herokuapp.com?user=NicolaLino&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D&dates=DDDDDD&background=0D1117&ring=5ED4F4&fire=5ED4F4&currStreakNum=5ED4F4&sideNums=5ED4F4&currStreakLabel=F4F4F4&sideLabels=F4F4F4&border=0D1117&stroke=202A39"/>
-    </a>
 </p>
 
 
@@ -37,9 +36,13 @@
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=NicolaLino&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt = "Nicola Github Stats" width = 400 >
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NicolaLino&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt = "Nicola Abu Shaibeh's Top Languages" width = 400 >
-
-</p>
+ <img alt="Nicola streak" src="https://github-readme-streak-stats.herokuapp.com?user=NicolaLino&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D&dates=DDDDDD&background=0D1117&ring=5ED4F4&fire=5ED4F4&currStreakNum=5ED4F4&sideNums=5ED4F4&currStreakLabel=F4F4F4&sideLabels=F4F4F4&border=0D1117&stroke=202A39">
+  </p>
+  
+<!-- <p align="center">
+        <img alt="Nicola streak" src="https://github-readme-streak-stats.herokuapp.com?user=NicolaLino&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D&dates=DDDDDD&background=0D1117&ring=5ED4F4&fire=5ED4F4&currStreakNum=5ED4F4&sideNums=5ED4F4&currStreakLabel=F4F4F4&sideLabels=F4F4F4&border=0D1117&stroke=202A39">
+    </a>
+</p> -->
 
 <p align = "center">
 
