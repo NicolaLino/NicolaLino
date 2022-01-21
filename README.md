@@ -4,14 +4,13 @@
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nicola</h1>
-<h3 align="center">Computer Engineering Student.</h3>
+<h3 align="center">I'm Computer Engineering Student.</h3>
 
 
 ## 📌 About Me
 
--    I’m currently learning **Python**
-
--    How to reach me **nicola.abu.shaibeh@gmail.com**
+- 💻 I’m Currently Learning machine learning
+- 📫 How to reach me **nicola.abu.shaibeh@gmail.com**
 
 
 ## 🚀 Languages and Tools:
@@ -54,10 +53,10 @@
 ## 🧡 My passions
 
 * Technology and software
-* Science 
+* Data Science 
 * Machine learning & AI
 * Books 
-* Data Science 
+
 
 ## Connect with me:
 <p align="center">
@@ -67,3 +66,7 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=NicolaLino">
 </p>
+ 
+ 
+<!--  <h6 align="center" ><i>⚡If You Take The Design Please Star The Repo ⭐</i></h6>
+ -->
