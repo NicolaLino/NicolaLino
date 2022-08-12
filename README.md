@@ -1,16 +1,21 @@
-<p align = "center">
+<!--<p align = "center">
 
  <img src = "https://i.imgur.com/wr5oHiN.gif" width = 400 />
 </p>
 
-<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nicola</h1>
+ <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nicola</h1>
 <h3 align="center">I'm Computer Engineering Student.</h3> -->
 
 
 ## 📌 About Me
+I am Nicola ✨ <br>
+I am an undergraduate student majoring in Computer Engineering who eagers to take on challenging problems. I am passionate about solving problems through code and learning more about new technologies. Currently, I am practicing python and also learning about the cool stuff there which includes Django for web development!
 
-- 💻 I’m Currently Learning machine learning
-- 📫 How to reach me **nicola.abu.shaibeh@gmail.com**
+- 🔭 I’m currently working on bash scripting project
+- 🌱 I’m currently learning Django and Javascript
+- 👯 I’m looking to collaborate on open source projects
+- 🤔 I’m looking for help with web dev
+- 📫 How to reach me: [Inbox](mailto:nicola.abu.shaibeh@gmail.com)
 
 
 ## 🚀 Languages and Tools:
@@ -48,7 +53,7 @@
 <p align = "center">
 
  <!-- <img src = "https://activity-graph.herokuapp.com/graph?username=NicolaLino&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt = "Nicola Abu Shaibeh's Activity Graph" />
-</p> -->
+</p> 
 
 
 
@@ -64,11 +69,10 @@
 <p align="center">
 
 <a href = "https://www.linkedin.com/in/nicolaabushaibeh/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<!-- <a href = "https://twitter.com/nicolalinoo"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=NicolaLino">
 </p>
  
- 
+ -->
 <!--  <h6 align="center" ><i>⚡If You Take The Design Please Star The Repo ⭐</i></h6>
  -->
