@@ -1,14 +1,16 @@
 <!--<p align = "center">
 
  <img src = "https://i.imgur.com/wr5oHiN.gif" width = 400 />
+</p> 
+
+ <h1 align="center">  Hello, I'm Nicola  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"> </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=&color=964EF7&lines=Penetration+Tester;Cyber+Security+Professional;Network+Security+Specialist+;DevSec+Ops+Specialist;Security+Analyst&center=true" alt="Typing SVG">
 </p>
-
- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nicola</h1>
-<h3 align="center">I'm Computer Engineering Student.</h3> -->
-
+<!--- ---><!--- ---><!--- ---><!--- ---><!--- ---><!--- --->
 
 ## 📌 About Me
-I am Nicola ✨ <br>
 I am an undergraduate student majoring in Computer Engineering who eagers to take on challenging problems. I am passionate about solving problems through code and learning more about new technologies. Currently, I am practicing python and also learning about the cool stuff there which includes Django for web development!
 
 - 🔭 I’m currently working on bash scripting project
