@@ -3,8 +3,8 @@
  <img src = "https://i.imgur.com/wr5oHiN.gif" width = 400 />
 </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nicola</h1>
-<h3 align="center">I'm Computer Engineering Student.</h3>
+<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nicola</h1>
+<h3 align="center">I'm Computer Engineering Student.</h3> -->
 
 
 ## 📌 About Me
@@ -36,8 +36,9 @@
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=NicolaLino&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt = "Nicola Github Stats" width = 400 >
- <img alt="Nicola streak" src="https://github-readme-streak-stats.herokuapp.com?user=NicolaLino&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D&dates=DDDDDD&background=0D1117&ring=5ED4F4&fire=5ED4F4&currStreakNum=5ED4F4&sideNums=5ED4F4&currStreakLabel=F4F4F4&sideLabels=F4F4F4&border=0D1117&stroke=202A39">
-  </p>
+  
+ <!-- <img alt="Nicola streak" src="https://github-readme-streak-stats.herokuapp.com?user=NicolaLino&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D&dates=DDDDDD&background=0D1117&ring=5ED4F4&fire=5ED4F4&currStreakNum=5ED4F4&sideNums=5ED4F4&currStreakLabel=F4F4F4&sideLabels=F4F4F4&border=0D1117&stroke=202A39">
+  </p> -->
   
 <!-- <p align="center">
         <img alt="Nicola streak" src="https://github-readme-streak-stats.herokuapp.com?user=NicolaLino&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D&dates=DDDDDD&background=0D1117&ring=5ED4F4&fire=5ED4F4&currStreakNum=5ED4F4&sideNums=5ED4F4&currStreakLabel=F4F4F4&sideLabels=F4F4F4&border=0D1117&stroke=202A39">
@@ -46,8 +47,8 @@
 
 <p align = "center">
 
- <img src = "https://activity-graph.herokuapp.com/graph?username=NicolaLino&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt = "Nicola Abu Shaibeh's Activity Graph" />
-</p>
+ <!-- <img src = "https://activity-graph.herokuapp.com/graph?username=NicolaLino&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt = "Nicola Abu Shaibeh's Activity Graph" />
+</p> -->
 
 
 
