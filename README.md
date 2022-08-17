@@ -34,7 +34,7 @@ I am an undergraduate student majoring in Computer Engineering who eagers to tak
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nICOLAlINO&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=false&count_private=false&layout=compact" alt = "Nicola Abu Shaibeh's Top Languages" width = 400 >
 
 </p>
-![]()
+
 
 ## 📊 My Github Stats
 
