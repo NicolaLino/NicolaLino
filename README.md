@@ -31,10 +31,10 @@ I am an undergraduate student majoring in Computer Engineering who eagers to tak
 </p>
 
 <p align = "center">
-  <img src = "" alt = "Nicola Abu Shaibeh's Top Languages" width = 400 >
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NicolaLino&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117%22%20alt%20=%20%22Nicola%20Abu%20Shaibeh%27s%20Top%20Languages" alt = "Nicola Abu Shaibeh's Top Languages" width = 400 >
 
 </p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolaLino&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117%22%20alt%20=%20%22Nicola%20Abu%20Shaibeh%27s%20Top%20Languages)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📊 My Github Stats
 
