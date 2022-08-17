@@ -48,10 +48,10 @@ I am an undergraduate student majoring in Computer Engineering who eagers to tak
  <!-- <img alt="Nicola streak" src="https://github-readme-streak-stats.herokuapp.com?user=NicolaLino&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D&dates=DDDDDD&background=0D1117&ring=5ED4F4&fire=5ED4F4&currStreakNum=5ED4F4&sideNums=5ED4F4&currStreakLabel=F4F4F4&sideLabels=F4F4F4&border=0D1117&stroke=202A39">
   </p> -->
   
-<!-- <p align="center">
+<p align="center">
         <img alt="Nicola streak" src="https://github-readme-streak-stats.herokuapp.com?user=NicolaLino&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D&dates=DDDDDD&background=0D1117&ring=5ED4F4&fire=5ED4F4&currStreakNum=5ED4F4&sideNums=5ED4F4&currStreakLabel=F4F4F4&sideLabels=F4F4F4&border=0D1117&stroke=202A39">
     </a>
-</p> -->
+</p>
 
 <p align = "center">
 
