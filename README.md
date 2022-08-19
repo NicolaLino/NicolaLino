@@ -20,6 +20,7 @@ I am an undergraduate student majoring in Computer Engineering who eagers to tak
 - 📫 How to reach me: [Inbox](mailto:nicola.abu.shaibeh@gmail.com)
 
 
+
 ## 🚀 Languages and Tools:
 
 <p align="center">
@@ -65,7 +66,7 @@ I am an undergraduate student majoring in Computer Engineering who eagers to tak
 * Technology and software
 * Data Science 
 * Machine learning & AI
-* Books 
+* Books  
 
 
 ## Connect with me:
