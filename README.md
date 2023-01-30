@@ -1,4 +1,4 @@
-<h1 align="center">  Hello, I'm Nicola  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"> </h1>
+<h1 align="center">  Hello, I'm Nicola;  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"> </h1>
 
 
 I am an undergraduate student majoring in Computer Engineering who eagers to take on challenging problems. I am passionate about solving problems through code and learning more about new technologies. Currently, I am practicing python and also learning about the cool stuff there which includes Django for web development!
