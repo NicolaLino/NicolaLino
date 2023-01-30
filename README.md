@@ -3,8 +3,8 @@
 
 I am an undergraduate student majoring in Computer Engineering who eagers to take on challenging problems. I am passionate about solving problems through code and learning more about new technologies. Currently, I am practicing python and also learning about the cool stuff there which includes Django for web development!
 
-- 🔭 I’m currently working on bash scripting project
-- 🌱 I’m currently learning Django and Javascript
+<!-- - 🔭 I’m currently working on bash scripting project
+- 🌱 I’m currently learning Django and Javascript -->
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with web dev
 - 📫 How to reach me: [Inbox](mailto:nicola.abu.shaibeh@gmail.com)
