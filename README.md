@@ -1,6 +1,6 @@
 
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=27a0f2&height=120&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=151515&height=120&section=header"/>
 </a>
 <h1 align="left"></h1>
 
@@ -63,7 +63,7 @@
 
 ###
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=27a0f2&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=151515&height=120&section=footer"/>
 </a>
 
 <!-- ![Snake animation](https://github.com/NicolaLino/NicolaLino/blob/output/github-contribution-grid-snake.svg) -->
