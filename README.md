@@ -53,8 +53,9 @@
 
 ###
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
-
-###
 
 <h1 align="left"></h1>
+<img src="https://raw.githubusercontent.com/NicolaLino/NicolaLino/output/snake.svg" alt="Snake animation" />
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
