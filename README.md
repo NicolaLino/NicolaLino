@@ -1,7 +1,5 @@
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header)
 
-<a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=151515&height=120&section=header"/>
-</a>
 <h1 align="left"></h1>
 
 ###
@@ -55,15 +53,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/NicolaLino/NicolaLino/output/snake.svg" alt="Snake animation" />
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
 
 ###
 
 <h1 align="left"></h1>
-
-###
-<a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=151515&height=120&section=footer"/>
-</a>
-
-<!-- ![Snake animation](https://github.com/NicolaLino/NicolaLino/blob/output/github-contribution-grid-snake.svg) -->
